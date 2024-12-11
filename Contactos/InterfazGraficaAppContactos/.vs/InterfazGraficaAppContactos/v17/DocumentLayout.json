@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DavidSebasti\u00E1nCedano\\source\\repos\\InterfazGraficaAppContactos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB745FF-A51D-4351-8565-E69630735BF5}|InterfazGraficaAppContactos\\InterfazGraficaAppContactos.csproj|C:\\Users\\DavidSebasti\u00E1nCedano\\source\\repos\\InterfazGraficaAppContactos\\interfazgraficaappcontactos\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB745FF-A51D-4351-8565-E69630735BF5}|InterfazGraficaAppContactos\\InterfazGraficaAppContactos.csproj|solutionrelative:interfazgraficaappcontactos\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB745FF-A51D-4351-8565-E69630735BF5}|InterfazGraficaAppContactos\\InterfazGraficaAppContactos.csproj|c:\\users\\davidsebasti\u00E1ncedano\\source\\repos\\interfazgraficaappcontactos\\interfazgraficaappcontactos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB745FF-A51D-4351-8565-E69630735BF5}|InterfazGraficaAppContactos\\InterfazGraficaAppContactos.csproj|solutionrelative:interfazgraficaappcontactos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB745FF-A51D-4351-8565-E69630735BF5}|InterfazGraficaAppContactos\\InterfazGraficaAppContactos.csproj|C:\\Users\\DavidSebasti\u00E1nCedano\\source\\repos\\InterfazGraficaAppContactos\\interfazgraficaappcontactos\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB745FF-A51D-4351-8565-E69630735BF5}|InterfazGraficaAppContactos\\InterfazGraficaAppContactos.csproj|solutionrelative:interfazgraficaappcontactos\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB745FF-A51D-4351-8565-E69630735BF5}|InterfazGraficaAppContactos\\InterfazGraficaAppContactos.csproj|c:\\users\\davidsebasti\u00E1ncedano\\source\\repos\\interfazgraficaappcontactos\\interfazgraficaappcontactos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB745FF-A51D-4351-8565-E69630735BF5}|InterfazGraficaAppContactos\\InterfazGraficaAppContactos.csproj|solutionrelative:interfazgraficaappcontactos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DavidSebasti\u00E1nCedano\\source\\repos\\InterfazGraficaAppContactos\\InterfazGraficaAppContactos\\Program.cs",
+              "RelativeDocumentMoniker": "InterfazGraficaAppContactos\\Program.cs",
+              "ToolTip": "C:\\Users\\DavidSebasti\u00E1nCedano\\source\\repos\\InterfazGraficaAppContactos\\InterfazGraficaAppContactos\\Program.cs",
+              "RelativeToolTip": "InterfazGraficaAppContactos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:54:53.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DavidSebasti\u00E1nCedano\\source\\repos\\InterfazGraficaAppContactos\\InterfazGraficaAppContactos\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "InterfazGraficaAppContactos\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\DavidSebasti\u00E1nCedano\\source\\repos\\InterfazGraficaAppContactos\\InterfazGraficaAppContactos\\Form1.Designer.cs",
+              "RelativeToolTip": "InterfazGraficaAppContactos\\Form1.Designer.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:54:47.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DavidSebasti\u00E1nCedano\\source\\repos\\InterfazGraficaAppContactos\\InterfazGraficaAppContactos\\Form1.cs",
+              "RelativeDocumentMoniker": "InterfazGraficaAppContactos\\Form1.cs",
+              "ToolTip": "C:\\Users\\DavidSebasti\u00E1nCedano\\source\\repos\\InterfazGraficaAppContactos\\InterfazGraficaAppContactos\\Form1.cs",
+              "RelativeToolTip": "InterfazGraficaAppContactos\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:52:46.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\DavidSebasti\u00E1nCedano\\source\\repos\\InterfazGraficaAppContactos\\InterfazGraficaAppContactos\\Contact.cs",
+              "RelativeDocumentMoniker": "InterfazGraficaAppContactos\\Contact.cs",
+              "ToolTip": "C:\\Users\\DavidSebasti\u00E1nCedano\\source\\repos\\InterfazGraficaAppContactos\\InterfazGraficaAppContactos\\Contact.cs",
+              "RelativeToolTip": "InterfazGraficaAppContactos\\Contact.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wC8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:52:33.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
